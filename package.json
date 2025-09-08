@@ -184,7 +184,7 @@
     "reflect-metadata": "^0.1.13",
     "refractor": "^3.5.0",
     "regenerator-runtime": "^0.13.7",
-    "request-filtering-agent": "^1.1.2",
+    "request-filtering-agent": "^2.0.0",
     "semver": "^7.3.7",
     "sequelize": "^6.20.1",
     "sequelize-cli": "^6.4.1",
